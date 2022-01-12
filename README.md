@@ -18,7 +18,5 @@ The data contains the following variables:
 * Reached on time: Target variable, where 1 indicates that the product has NOT reached on time and 0 indicates it has reached on time. 
 
 There were no null or missing values present in the dataset.
-## Process Involved
-* Analyze variables involved and relationship between them.
-* Develop individual worksheets on Tableau.
-* Combine those worksheets in a Dashboard.
+## Snapshot of Project
+## Results
