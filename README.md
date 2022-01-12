@@ -18,5 +18,6 @@ The data contains the following variables:
 * Reached on time: Target variable, where 1 indicates that the product has NOT reached on time and 0 indicates it has reached on time. 
 
 There were no null or missing values present in the dataset.
+## Business Questions
 ## Snapshot of Project
 ## Results
