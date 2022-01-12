@@ -20,4 +20,5 @@ The data contains the following variables:
 There were no null or missing values present in the dataset.
 ## Business Questions
 ## Snapshot of Project
+![Screenshot (200)](https://user-images.githubusercontent.com/64837491/149054312-c2fec8d1-b810-4998-9197-6ee8658e335d.png)
 ## Results
