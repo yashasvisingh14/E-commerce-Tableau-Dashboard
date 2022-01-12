@@ -2,8 +2,8 @@
 ## Brief Overview of the Project
 For this project, I have used an [E-commerce](https://www.kaggle.com/prachi13/customer-analytics) dataset from Kaggle. The aim is to develop a Tableau Dashboard that will provide key insights into customer behavior and product shipment data.
 ## Dataset
-The dataset contains 10999 observations and 12 variables.
-The data contains the following variables: </br>
+The dataset contains 10999 observations and 12 variables.\
+The data contains the following variables: \
 * ID: ID Number of Customers
 * Warehouse block: Blocks such as A,B,C,D,E
 * Mode of shipment: Ship, Flight and Road
@@ -15,4 +15,4 @@ The data contains the following variables: </br>
 * Gender: Male and Female
 * Discount offered: Discount offered on product
 * Weight in gms: Weight of product (gms)
-* Reached on time: Target variable, where 1 Indicates that the product has NOT reached on time and 0 indicates it has reached on time.
+* Reached on time: Target variable, where 1 indicates that the product has NOT reached on time and 0 indicates it has reached on time.
