@@ -1,6 +1,6 @@
 # E-commerce Dashboard
 ## Brief Overview of the Project
-For this project, I have used an [E-commerce](https://www.kaggle.com/prachi13/customer-analytics) dataset from Kaggle. The aim is to develop a Tableau Dashboard that will provide key insights into customer behavior and product shipment data.
+For this project, I have used an [E-commerce](https://www.kaggle.com/prachi13/customer-analytics) dataset from Kaggle. The aim is to develop a Tableau Dashboard that will provide key insights into customer behavior and product shipment data. The project link can be found [here](https://public.tableau.com/app/profile/yashasvi7730/viz/E-CommerceDashboard_16415993263580/Dashboard1?publish=yes).
 ## Dataset
 The dataset contains 10999 observations and 12 variables.\
 The data contains the following variables: 
