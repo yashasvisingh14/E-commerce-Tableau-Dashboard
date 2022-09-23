@@ -28,4 +28,3 @@ This Tableau dashboard answer some of these business questions?
 * Which is the mostly used mode of shipment w.r.t warehouses ?
 ## Snapshot of Project
 ![Screenshot (200)](https://user-images.githubusercontent.com/64837491/149054312-c2fec8d1-b810-4998-9197-6ee8658e335d.png)
-## Results
